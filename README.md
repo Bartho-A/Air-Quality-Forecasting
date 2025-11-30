@@ -14,7 +14,6 @@ It includes data processing, model evaluation, visualization, and a baseline com
 
 ## Repository Structure
 Air-Quality-Forecasting/
-- │
 - ├── app.py                             # Streamlit dashboard app
 - ├── nairobi_pm25_final_results.csv     # Processed AR model results (test set)
 - ├── requirements.txt                   # Python dependencies
